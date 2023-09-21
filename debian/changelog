@@ -1,3 +1,9 @@
+lliurex-kde-hotkeys (22.0.2) focal; urgency=medium
+
+  * Trying to fix relationships for migrations from focal to jammy. 
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 21 Sep 2023 13:13:35 +0200
+
 lliurex-kde-hotkeys (22.0.1) focal; urgency=medium
 
   * Initial release.

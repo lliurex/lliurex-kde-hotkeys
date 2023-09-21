@@ -8,5 +8,6 @@ Standards-Version: 4.1.2
 Package: lliurex-kde-hotkeys
 Architecture: all
 Depends: ${misc:Depends}
+Replaces: konsole
 Description: Lliurex KDE hotkeys settings
  LliureX KDE hotkeys configuration 
